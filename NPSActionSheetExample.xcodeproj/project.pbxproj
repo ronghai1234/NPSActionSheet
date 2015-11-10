@@ -16,17 +16,17 @@
 		FB7F9E4F1BDF636300357821 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB7F9E4D1BDF636300357821 /* LaunchScreen.storyboard */; };
 		FB7F9E5A1BDF636300357821 /* NPSActionSheetExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E591BDF636300357821 /* NPSActionSheetExampleTests.m */; };
 		FB7F9E651BDF636300357821 /* NPSActionSheetExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E641BDF636300357821 /* NPSActionSheetExampleUITests.m */; };
-		FB7F9E8B1BDF639D00357821 /* NPSActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E751BDF639D00357821 /* NPSActionSheet.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E8C1BDF639D00357821 /* NPSActionSheet+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E771BDF639D00357821 /* NPSActionSheet+Animation.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E8D1BDF639D00357821 /* NPSActionSheet+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E791BDF639D00357821 /* NPSActionSheet+Layout.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E8E1BDF639D00357821 /* NPSActionSheetBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E7B1BDF639D00357821 /* NPSActionSheetBackground.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E8F1BDF639D00357821 /* NPSActionSheetButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E7D1BDF639D00357821 /* NPSActionSheetButton.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E901BDF639D00357821 /* NPSActionSheetCancelView.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E7F1BDF639D00357821 /* NPSActionSheetCancelView.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E911BDF639D00357821 /* NPSActionSheetContainerItem.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E821BDF639D00357821 /* NPSActionSheetContainerItem.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E921BDF639D00357821 /* NPSActionSheetContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E841BDF639D00357821 /* NPSActionSheetContainerView.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E931BDF639D00357821 /* NPSActionSheetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E861BDF639D00357821 /* NPSActionSheetManager.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E941BDF639D00357821 /* NPSActionSheetTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E881BDF639D00357821 /* NPSActionSheetTitleView.m */; settings = {ASSET_TAGS = (); }; };
-		FB7F9E951BDF639D00357821 /* UIImage+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E8A1BDF639D00357821 /* UIImage+Color.m */; settings = {ASSET_TAGS = (); }; };
+		FB7F9E8B1BDF639D00357821 /* NPSActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E751BDF639D00357821 /* NPSActionSheet.m */; };
+		FB7F9E8C1BDF639D00357821 /* NPSActionSheet+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E771BDF639D00357821 /* NPSActionSheet+Animation.m */; };
+		FB7F9E8D1BDF639D00357821 /* NPSActionSheet+Layout.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E791BDF639D00357821 /* NPSActionSheet+Layout.m */; };
+		FB7F9E8E1BDF639D00357821 /* NPSActionSheetBackground.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E7B1BDF639D00357821 /* NPSActionSheetBackground.m */; };
+		FB7F9E8F1BDF639D00357821 /* NPSActionSheetButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E7D1BDF639D00357821 /* NPSActionSheetButton.m */; };
+		FB7F9E901BDF639D00357821 /* NPSActionSheetCancelView.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E7F1BDF639D00357821 /* NPSActionSheetCancelView.m */; };
+		FB7F9E911BDF639D00357821 /* NPSActionSheetContainerItem.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E821BDF639D00357821 /* NPSActionSheetContainerItem.m */; };
+		FB7F9E921BDF639D00357821 /* NPSActionSheetContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E841BDF639D00357821 /* NPSActionSheetContainerView.m */; };
+		FB7F9E931BDF639D00357821 /* NPSActionSheetManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E861BDF639D00357821 /* NPSActionSheetManager.m */; };
+		FB7F9E941BDF639D00357821 /* NPSActionSheetTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E881BDF639D00357821 /* NPSActionSheetTitleView.m */; };
+		FB7F9E951BDF639D00357821 /* UIImage+Color.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F9E8A1BDF639D00357821 /* UIImage+Color.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */

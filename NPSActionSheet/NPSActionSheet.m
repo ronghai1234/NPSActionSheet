@@ -76,17 +76,14 @@
             [weakSelf addButtonWithTitle:otherTitle];
         }];
         
-        //copy
         self.title = [title copy];
         self.delegate = self;
         self.realDelegate = delegate;
         self.cancelButtonTitle = [cancelButtonTitle copy];
         self.destructiveButtonTitle = [destructiveButtonTitle copy];
-        
-        //defalut_Index
         self.numberOfButtons = self.containerItemArray.count + (cancelButtonTitle ? 1 : 0);// 1:cancelBtn
-        self.destructiveButtonIndex = destructiveButtonTitle ? 0 : -1;// -1 = null_Index
-        self.cancelButtonIndex = cancelButtonTitle ? self.containerItemArray.count : -1;// -1 = null_Index
+        self.destructiveButtonIndex = destructiveButtonTitle ? 0 : -1;// -1 == null_Index
+        self.cancelButtonIndex = cancelButtonTitle ? self.containerItemArray.count : -1;// -1 == null_Index
     }
     return self;
 }
